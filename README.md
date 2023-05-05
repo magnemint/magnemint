@@ -11,7 +11,7 @@ class Magnemint:
         website = "magnemint.github.io"
         discord = {
             "username": "Magnemint#5880",
-            "server": "[discord.gg/K2K7V4wCj6](https://discord.gg/K2K7V4wCj6)"
+            "server": "discord.gg/K2K7V4wCj6"
         }
         
 ```
