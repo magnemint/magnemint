@@ -15,3 +15,5 @@ class Magnemint:
         }
         
 ```
+
+p.s. I took this from someone else because they took someone else's code L
