@@ -1,16 +1,17 @@
-### Hi there 👋
+```python
 
-<!--
-**magnemint/magnemint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Magnemint:
+    def __init__():        
+        age = 14
+        nationality = "Sri Lankan"
+        languages = ["English", "Sinhalese" , "Japanese"]
 
-Here are some ideas to get you started:
+        programing_languages = ["Python", "Java"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        website = "magnemint.github.io"
+        discord = {
+            "username": "Magnemint#5880",
+            "server": "[discord.gg/K2K7V4wCj6](https://discord.gg/K2K7V4wCj6)"
+        }
+        
+```
