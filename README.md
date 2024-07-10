@@ -2,9 +2,9 @@
 
 class Magnemint:
     def __init__():        
-        age = 14
-        nationality = "Sri Lankan"
-        languages = ["English", "Sinhalese" , "Japanese"]
+        age = 69
+        nationality = "Micheal Jordean"
+        languages = ["Get", "On", "My", "House", "It is very cool"]
 
         programing_languages = ["Python", "Java"]
 
