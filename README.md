@@ -6,11 +6,11 @@ class Magnemint:
         nationality = "Micheal Jordean"
         languages = ["Get", "On", "My", "House", "It is very cool"]
 
-        programing_languages = ["Python", "Java"]
+        programing_languages = ["Python", "Java", "Swift", "Hi Josh"]
 
         website = "magnemint.github.io"
         discord = {
-            "username": "Magnemint#5880",
+            "username": "Magnemint",
             "server": "discord.gg/K2K7V4wCj6"
         }
         
